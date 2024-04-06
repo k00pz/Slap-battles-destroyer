@@ -4,7 +4,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Exploit Hub - Premium 2.9.6",
+    Title = "Exploit Hub Premium 2.9.6",
     SubTitle = "by Fsploit",
     TabWidth = 175,
     Size = UDim2.fromOffset(450, 225),
